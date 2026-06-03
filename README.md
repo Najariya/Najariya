@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/nazaria-avatar.png" alt="NA monogram used on naveenagrawal.in" width="96" />
+  <img src="assets/nazaria-avatar.png" alt="Naveen Nazaria NA tech and public-good avatar" width="96" />
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@ I am learning by doing. When I do not know something, I start small, build the f
   <img alt="GST and e-invoice" src="https://img.shields.io/badge/GST%20%2B%20e--Invoice-0369A1?style=flat-square">
   <img alt="Product thinking" src="https://img.shields.io/badge/Product%20Thinking-7C3AED?style=flat-square">
   <img alt="Local first AI" src="https://img.shields.io/badge/Local--First%20AI-B45309?style=flat-square">
+  <img alt="Code for public good" src="https://img.shields.io/badge/Code%20for%20Public%20Good-166534?style=flat-square">
   <img alt="Community kits" src="https://img.shields.io/badge/Community%20Kits-334155?style=flat-square">
 </p>
 
@@ -42,6 +43,19 @@ I am learning by doing. When I do not know something, I start small, build the f
 - **GST and e-invoice learning material** that can become clearer, verified, and easier for others to use.
 - **Local-first AI tools** where privacy, usefulness, and control matter.
 - **Builder notes and small prototypes** that turn uncertainty into working examples.
+
+## Repository Map
+
+I organize this GitHub into four honest buckets:
+
+| Bucket | What Belongs There |
+| --- | --- |
+| **Code for Public Good** | Public tools, kits, explainers, and reusable material that can help others. |
+| **Serious Private Work** | Active product or system work that should stay private until it is safe and useful to share. |
+| **Prototype / Learning** | Experiments built to learn, test a UI, or understand a workflow by doing. |
+| **Archive / Inactive** | Repos I am no longer actively pursuing, kept only as reference or history. |
+
+I do not want every experiment to pretend it is "public good." A repo belongs in that bucket only when the README, architecture, privacy/security notes, and current status are clear enough for another person to learn from or reuse.
 
 ## Public Workbench
 
