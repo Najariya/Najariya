@@ -6,6 +6,7 @@
   <a href="https://naveenagrawal.in"><img alt="Website" src="https://img.shields.io/badge/Website-naveenagrawal.in-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/naveen-agrawaljsr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naveen%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Najariya"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Najariya-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Najariya/Najariya/discussions"><img alt="Discussions" src="https://img.shields.io/badge/Discuss-Ask%20%2F%20Share-7C3AED?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 # Naveen Nazaria
@@ -48,6 +49,12 @@ I am learning by doing. When I do not know something, I start small, build the f
 
 Some active product work stays private until it is useful, documented, and safe to share.
 
+## Latest Updates
+
+- [2026-06-03: GitHub profile refresh](updates/2026-06-03-github-profile-refresh.md)
+
+I use updates for small public notes: what I learned, what I improved, which kit is becoming useful, and what may help someone else avoid the same confusion.
+
 ## Working Policy
 
 - Keep private work private until there is a clear reason to publish.
@@ -56,7 +63,14 @@ Some active product work stays private until it is useful, documented, and safe 
 - Share what becomes reusable: kits, patterns, checklists, and explainers.
 - Use AI as an execution partner, while keeping human judgment responsible for public identity, credentials, product direction, and sensitive decisions.
 
+## How I Keep This Updated
+
+When something becomes worth sharing, I publish it in one of three ways:
+
+1. **Repository update** for code, kit, or prototype changes.
+2. **Profile update** for public direction, selected work, and current focus.
+3. **Update note** for short learning logs inside [`updates/`](updates/).
+
 ## Website
 
 The longer public profile lives at [naveenagrawal.in](https://naveenagrawal.in).
-
