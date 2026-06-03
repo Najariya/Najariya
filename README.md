@@ -1,8 +1,8 @@
-# Naveen "Nazar" Agrawal
+# Naveen Nazaria
 
 I build practical software at the edge of AI, privacy, compliance, and everyday productivity.
 
-**Nazar** is my public pen name: short for perspective, clear enough to remember, and close to the spirit of `Najariya`.
+**Nazaria** means perspective: the habit of looking at a problem from the user's side, the system's side, and the messy real-world side before writing code.
 
 ## What I Am Building
 
@@ -33,4 +33,3 @@ Some active product work is private until it is ready to be useful, documented, 
 - E-invoicing intelligence and compliance tooling.
 - Personal AI workbench systems with durable memory and clear review loops.
 - Public project hygiene: better READMEs, cleaner repo settings, and stronger security defaults.
-
