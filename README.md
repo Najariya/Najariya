@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/nazaria-avatar.png" alt="NA monogram used on naveenagrawal.in" width="96" />
+</p>
+
+<p align="center">
   <a href="https://naveenagrawal.in"><img alt="Website" src="https://img.shields.io/badge/Website-naveenagrawal.in-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/naveen-agrawaljsr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naveen%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Najariya"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Najariya-181717?style=for-the-badge&logo=github&logoColor=white"></a>
