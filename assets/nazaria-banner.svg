@@ -29,16 +29,18 @@
   <rect width="1200" height="360" rx="32" fill="url(#glow)"/>
   <path d="M54 286C175 244 271 253 383 284C502 317 603 308 694 263" stroke="#38BDF8" stroke-opacity="0.32" stroke-width="3"/>
   <path d="M45 310C161 278 277 283 383 314C504 350 613 334 733 290" stroke="#5EEAD4" stroke-opacity="0.26" stroke-width="3"/>
-  <g filter="url(#softShadow)">
-    <path d="M695 182C760 91 901 65 1013 182C902 299 761 273 695 182Z" stroke="url(#lens)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="855" cy="182" r="62" fill="#07111F" stroke="#E0F2FE" stroke-width="12"/>
-    <circle cx="872" cy="162" r="16" fill="#FDE68A"/>
-    <path d="M765 182H945" stroke="#E0F2FE" stroke-opacity="0.45" stroke-width="4" stroke-linecap="round"/>
-    <path d="M855 92V272" stroke="#5EEAD4" stroke-opacity="0.26" stroke-width="4" stroke-linecap="round"/>
+  <g opacity="0.88">
+    <path d="M890 98L1012 162L928 236L1078 270" stroke="#5EEAD4" stroke-opacity="0.52" stroke-width="5" stroke-linecap="round"/>
+    <path d="M890 98L928 236L794 270" stroke="#38BDF8" stroke-opacity="0.32" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="890" cy="98" r="22" fill="#0B1F32" stroke="#A7F3D0" stroke-width="6"/>
+    <circle cx="1012" cy="162" r="28" fill="#0B1F32" stroke="#7DD3FC" stroke-width="6"/>
+    <circle cx="928" cy="236" r="24" fill="#0B1F32" stroke="#FDE68A" stroke-width="6"/>
+    <circle cx="1078" cy="270" r="18" fill="#0B1F32" stroke="#5EEAD4" stroke-width="5"/>
+    <circle cx="794" cy="270" r="16" fill="#0B1F32" stroke="#38BDF8" stroke-width="5"/>
   </g>
   <text x="70" y="92" fill="#A7F3D0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="4">NAZARIA</text>
   <text x="70" y="158" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="56" font-weight="800">Naveen Nazaria</text>
-  <text x="72" y="204" fill="#D6E4F0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500">Learn by doing. Build with judgment. Share what becomes useful.</text>
+  <text x="72" y="204" fill="#D6E4F0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500">Learn by doing. Build with judgment. Share useful kits.</text>
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">
     <rect x="70" y="245" width="162" height="44" rx="22" fill="#E0F2FE" fill-opacity="0.13" stroke="#7DD3FC" stroke-opacity="0.55"/>
     <text x="94" y="273" fill="#E0F2FE">Perspective</text>
