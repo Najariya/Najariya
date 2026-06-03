@@ -1,35 +1,62 @@
+<p align="center">
+  <img src="assets/nazaria-banner.svg" alt="Naveen Nazaria - Perspective to Practice to Public Value" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://naveenagrawal.in"><img alt="Website" src="https://img.shields.io/badge/Website-naveenagrawal.in-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/naveen-agrawaljsr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naveen%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Najariya"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Najariya-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
 # Naveen Nazaria
 
-I build practical software at the edge of AI, privacy, compliance, and everyday productivity.
+**Nazaria** means perspective: a way of looking at a problem from the user's side, the institution's side, and the messy real-world side before deciding what to build.
 
-**Nazaria** means perspective: the habit of looking at a problem from the user's side, the system's side, and the messy real-world side before writing code.
+I am learning by doing. When I do not know something, I start small, build the first version, read the failure honestly, and improve from there. I have benefited from open-source kits, public explainers, examples, and people who shared their work before me. This GitHub is becoming my own contribution back: a practical workbench of products, prototypes, notes, and reusable learning trails.
 
-## What I Am Building
+## My Build Lens
 
-- Local-first AI tools that keep private work on the device.
-- Founder-manageable products with clean workflows, not unnecessary operational sprawl.
-- Compliance and automation systems where source evidence stays more important than AI guesses.
-- Small prototypes that help me test an idea quickly before turning it into a durable product.
+| Lens | What It Means In Practice |
+| --- | --- |
+| **Seva and public purpose** | Do the work sincerely, keep people at the centre, and make systems easier to trust. |
+| **Problem-first thinking** | Acknowledge what is not working, learn what is missing, and move toward a practical solution. |
+| **Technology with judgment** | Use technology where it improves access, privacy, execution, institutional capability, or citizen experience. |
+| **Learning in public** | Turn experiments into useful kits, explainers, and patterns that others can build on. |
 
-## Selected Public Work
+## Current Directions
 
-- [FullSnap Extension](https://github.com/Najariya/fullsnap-extension) - local screenshot capture, annotation, and export for Chrome.
-- [FullSnap Prototype](https://github.com/Najariya/FullSnap) - early TypeScript prototype for screenshot and annotation experiments.
-- [Secure OTP App](https://github.com/Najariya/secure-otp-app) - prototype exploring safer OTP workflows.
+<p>
+  <img alt="Digital public systems" src="https://img.shields.io/badge/Digital%20Public%20Systems-0F766E?style=flat-square">
+  <img alt="GST and e-invoice" src="https://img.shields.io/badge/GST%20%2B%20e--Invoice-0369A1?style=flat-square">
+  <img alt="Product thinking" src="https://img.shields.io/badge/Product%20Thinking-7C3AED?style=flat-square">
+  <img alt="Local first AI" src="https://img.shields.io/badge/Local--First%20AI-B45309?style=flat-square">
+  <img alt="Community kits" src="https://img.shields.io/badge/Community%20Kits-334155?style=flat-square">
+</p>
 
-Some active product work is private until it is ready to be useful, documented, and safe to share.
+- **Digital public systems** shaped by GSTN, taxpayer experience, service delivery, and large-scale implementation.
+- **GST and e-invoice learning material** that can become clearer, verified, and easier for others to use.
+- **Local-first AI tools** where privacy, usefulness, and control matter.
+- **Builder notes and small prototypes** that turn uncertainty into working examples.
 
-## How I Work
+## Public Workbench
 
-- Keep the source of truth visible: BRDs, runbooks, docs, tests, and real system output beat memory.
-- Label prototypes clearly so experiments do not look like finished products.
-- Prefer small, reviewable changes over broad rewrites.
-- Keep privacy settings intentional; private repositories stay private unless there is a clear reason to publish.
-- Use AI as an execution partner, with human approval for product direction, credentials, deploys, and public identity changes.
+| Project | Why It Exists |
+| --- | --- |
+| [FullSnap Extension](https://github.com/Najariya/fullsnap-extension) | A local Chrome extension for screenshot capture, annotation, export, and privacy-first utility. |
+| [Secure OTP App](https://github.com/Najariya/secure-otp-app) | A prototype for thinking through safer OTP and security workflows. |
+| [FullSnap Prototype](https://github.com/Najariya/FullSnap) | Early screenshot and annotation experiments before the clearer extension path emerged. |
 
-## Current Focus
+Some active product work stays private until it is useful, documented, and safe to share.
 
-- Local dictation and voice workflows.
-- E-invoicing intelligence and compliance tooling.
-- Personal AI workbench systems with durable memory and clear review loops.
-- Public project hygiene: better READMEs, cleaner repo settings, and stronger security defaults.
+## Working Policy
+
+- Keep private work private until there is a clear reason to publish.
+- Label prototypes honestly so experiments do not pretend to be finished products.
+- Prefer source evidence, runbooks, tests, and real system output over confident guesses.
+- Share what becomes reusable: kits, patterns, checklists, and explainers.
+- Use AI as an execution partner, while keeping human judgment responsible for public identity, credentials, product direction, and sensitive decisions.
+
+## Website
+
+The longer public profile lives at [naveenagrawal.in](https://naveenagrawal.in).
+
