@@ -61,14 +61,13 @@ I do not want every experiment to pretend it is "public good." A repo belongs in
 
 | Project | Why It Exists |
 | --- | --- |
-| [FullSnap Extension](https://github.com/Najariya/fullsnap-extension) | A local Chrome extension for screenshot capture, annotation, export, and privacy-first utility. |
-| [Secure OTP App](https://github.com/Najariya/secure-otp-app) | A prototype for thinking through safer OTP and security workflows. |
-| [FullSnap Prototype](https://github.com/Najariya/FullSnap) | Early screenshot and annotation experiments before the clearer extension path emerged. |
+| [FullSnap Extension](https://github.com/Najariya/fullsnap-extension) | A privacy-first local Chrome extension for full-page screenshots, annotation, redaction, and export. |
 
-Some active product work stays private until it is useful, documented, and safe to share.
+Older public prototypes are archived when they no longer represent the active direction. Some serious product work stays private until it is useful, documented, and safe to share.
 
 ## Latest Updates
 
+- [2026-06-04: FullSnap becomes the main public-good repo](updates/2026-06-04-fullsnap-public-repo-upgrade.md)
 - [2026-06-03: GitHub profile refresh](updates/2026-06-03-github-profile-refresh.md)
 
 I use updates for small public notes: what I learned, what I improved, which kit is becoming useful, and what may help someone else avoid the same confusion.
